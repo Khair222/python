@@ -1,6 +1,6 @@
 python punya data primitif dan non-primitif
 data primitif dan dua 
--interjer (numerukal)
--sting (atr) merupakan pepresentasi data yang (character(a-z)),0-9,special charakter
--float (float) berkoma
+-interjer (numerukal) 10
+-sting (atr) merupakan pepresentasi data yang (character(a-z)),0-9,special charakter ""
+-float (float) berkoma 10.5
 -bloolean (blool) > true/false
